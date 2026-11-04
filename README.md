@@ -6,6 +6,16 @@ CB Creaciones 3D es una página web desarrollada para un emprendimiento de impre
 
 El sitio permite conoce productos, visualizar imágenes de las creaciones y realizar consultas.
 
+Instrucciones de uso
+
+1. Ingresar a la página web mediante el enlace de GitHub Pages.
+2. Utilizar el menú para navegar entre Inicio, Productos y Contacto.
+3. En Inicio, utilizar las flechas para recorrer las imágenes del carrusel.
+4. En Productos, visualizar las imágenes y descripciones de los productos.
+5. En Contacto, completar el formulario con los datos solicitados.
+6. Presionar Preparar consulta para validar los datos y visualizar el resumen.
+7. Utilizar el botón de WhatsApp para enviar la consulta.
+
 Tecnologías utilizadas
 
 HTML5: estructura de las páginas.
