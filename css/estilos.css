@@ -165,3 +165,10 @@ nav a:hover {
 .carrusel button:hover {
     background-color: #638331;
 }
+
+
+nav a.activo {
+    color: #b5d47c;
+    border-bottom: 2px solid #b5d47c;
+    font-weight: bold;
+}
