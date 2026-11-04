@@ -57,3 +57,111 @@ nav a:hover {
     object-fit: contain;
     border-radius: 8px;
 }
+
+
+/* Formulario de contacto */
+
+#formularioContacto {
+    background-color: white;
+    max-width: 450px;
+    margin: 30px auto;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    text-align: left;
+}
+
+#formularioContacto label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+    color: #203825;
+}
+
+#formularioContacto input,
+#formularioContacto textarea {
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 12px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+#formularioContacto button {
+    background-color: #203825;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+#formularioContacto button:hover {
+    background-color: #638331;
+}
+
+#formularioContacto p {
+    color: #c0392b;
+    font-size: 14px;
+    margin-top: 0;
+}
+
+#resultado {
+    max-width: 500px;
+    margin: 25px auto;
+    padding: 15px;
+}
+
+#resultado a {
+    display: inline-block;
+    background-color: #25d366;
+    color: white;
+    padding: 14px 20px;
+    margin-top: 15px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+
+/* Carrusel de imágenes */
+
+.seccion-carrusel {
+    text-align: center;
+    padding: 30px 20px;
+}
+
+.carrusel {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+    margin: 25px auto;
+}
+
+#imagenCarrusel {
+    width: 350px;
+    height: 300px;
+    max-width: 70%;
+    object-fit: contain;
+    background-color: white;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.carrusel button {
+    background-color: #203825;
+    color: white;
+    border: none;
+    padding: 15px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 22px;
+}
+
+.carrusel button:hover {
+    background-color: #638331;
+}
